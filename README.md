@@ -1,0 +1,2 @@
+# Number-Plate-Detection-Without-Helmet-Using-YOLOv3
+This Git repository houses a project focused on real-time traffic violation detection. By employing YOLOv3 and Python-based CNN, it identifies helmetless riders and improperly displayed number plates using existing surveillance cameras. The aim is to aid law enforcement in swiftly identifying violators, reducing reliance on dedicated ANPR cameras."
