@@ -9,6 +9,13 @@ This Git repository houses a project focused on real-time traffic violation dete
 
 ![frame_96](https://github.com/thebeard000/Number-Plate-Detection-Without-Helmet-Using-YOLOv3/assets/103173081/7019780d-d1b9-467a-ae38-be322b95e13f)
 
+# OUTPUT VIDEO
+-Had to comprees the video github only allows 10mb size
+
+https://github.com/thebeard000/Number-Plate-Detection-Without-Helmet-Using-YOLOv3/assets/103173081/5b128faa-f2e3-48f1-b40a-87828bf8754c
+
+
+
 ## Table of Contents
 
 - [About the Project](#about-the-project)
