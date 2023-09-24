@@ -3,8 +3,11 @@ This Git repository houses a project focused on real-time traffic violation dete
 
 # Number Plate Detection Without Helmet Using YOLOv3
 
-![frame_0](https://github.com/thebeard000/Number-Plate-Detection-Without-Helmet-Using-YOLOv3/assets/103173081/2f34ea0e-1b9a-4ce2-b856-cda8f2fd50d0)
 ![frame_21](https://github.com/thebeard000/Number-Plate-Detection-Without-Helmet-Using-YOLOv3/assets/103173081/3529bf5a-202c-4168-8667-a2c5c5f6a1fc)
+
+![frame_347](https://github.com/thebeard000/Number-Plate-Detection-Without-Helmet-Using-YOLOv3/assets/103173081/434310c2-d978-4cbd-89d5-c137dc63e3b9)
+
+![frame_96](https://github.com/thebeard000/Number-Plate-Detection-Without-Helmet-Using-YOLOv3/assets/103173081/7019780d-d1b9-467a-ae38-be322b95e13f)
 
 ## Table of Contents
 
