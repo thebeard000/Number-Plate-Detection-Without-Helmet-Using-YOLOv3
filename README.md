@@ -73,9 +73,7 @@ Before using this project, ensure that you have the following software libraries
 
 Ensure that you have these libraries and their specified versions in your `requirements.txt` file. You can install them using `pip install -r requirements.txt`.
 
-## Project Resources
 
-For access to large files, datasets, and additional project resources, please visit our [Google Drive folder](https://drive.google.com/drive/folders/175gBCApQMDC77hCGhhmxQlQuyAA_kck3?usp=sharing).
 
 ## Usage
 
